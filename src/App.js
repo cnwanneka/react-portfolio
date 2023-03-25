@@ -39,20 +39,25 @@ function App() {
         <section id="projects">
           <h2>Projects</h2>
           <div className="project">
-            <h3>Project 1</h3>
-            <p>On that day</p>
+            <h3>ProjectOne</h3>
+            <p>Title: On that day</p>
           </div>
           <div className="project">
-            <h3>Project 2</h3>
-            <p>Actor Search</p>
+            <h3>Project-two</h3>
+            <p>Title: Actor Search</p>
           </div>
         </section>
         <section id="contact">
           <h2>Contact Me</h2>
           <p>07891108762</p>
+          <br></br>
+          <p>cnwanneka@gmail.com</p>
     
         </section>
       </main>
+      <footer>
+        &copy; 2023 Chidi Nwanneka - Portfolio
+      </footer>
       
     </div>
   );
