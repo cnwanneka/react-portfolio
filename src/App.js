@@ -8,14 +8,13 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Chidi Nwanneka Portfolio</h1>
         <Navbar bg="primary" variant="dark">
         <Container>
           <Navbar.Brand href="#home">Chidi Nwanneka</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#features">Projects</Nav.Link>
-            <Nav.Link href="#pricing">Contact</Nav.Link>
+            <Nav.Link href="#projects">Projects</Nav.Link>
+            <Nav.Link href="#contact">Contact</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
