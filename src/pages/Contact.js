@@ -12,9 +12,14 @@ function Contact() {
           <br></br>
           UK
           <br></br>
-          cnwanneka@gmail.com
+          Email address: cnwanneka@gmail.com
         </p>
-        <p>Link to CV</p>
+        <p>Curriculum Vitae
+          <br></br>
+          GitHub Profile
+          <br></br>
+          Linkedin page
+        </p>
 
       </contact>
     );
