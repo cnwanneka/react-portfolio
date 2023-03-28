@@ -4,4 +4,5 @@ This portfolio was created using React.
 
 The URL of the repository is https://cnwannekaportfolio.netlify.app/
 
-![Screenshot (55)](https://user-images.githubusercontent.com/68708065/227751915-4ecd0e2f-c019-496e-af54-21fb12d6dbc7.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/68708065/228191615-a3c431ae-4491-414b-8a56-46e057c3f281.png)
+
