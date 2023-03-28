@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Navbar from './Navbar';
+import Navbar from './components/Navbar';
 import Header from "./components/Header";
 import Footer from './components/Footer';
 import Container from "./components/Container";
