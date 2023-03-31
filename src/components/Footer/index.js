@@ -6,8 +6,9 @@ function Footer() {
     <footer className="footer">
       <span>Chidi Nwanneka 2023</span>
       <li>
-        <a href="www.linkedin.com/in/chidinwanneka" target="_blank">
-          <img src="https://www.columbia.edu/~ml3720/linkedin.jpg" alt="Linkedin Logo" class="linkedin-icon" /></a>
+      <a href="https://www.linkedin.com/in/chidinwanneka">
+        <img src="path/to/linkedin-logo.png" alt="LinkedIn Logo" />
+      </a>
       </li>
     </footer>
   );

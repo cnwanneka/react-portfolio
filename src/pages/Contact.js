@@ -18,7 +18,7 @@ function Contact() {
           <br></br>
           GitHub Profile
           <br></br>
-          Linkedin page
+          Linkedin pag
         </p>
 
       </contact>
