@@ -1,5 +1,7 @@
 # react-portfolio
 
+The objective of this portfolio is to showcase the challenges and projects that I have worked on.
+
 This portfolio was created using React.
 
 The URL of the repository is https://cnwannekaportfolio.netlify.app/
