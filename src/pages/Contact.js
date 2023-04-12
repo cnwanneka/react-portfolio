@@ -18,7 +18,10 @@ function Contact() {
           <br></br>
           GitHub Profile
           <br></br>
-          Linkedin pag
+          Linkedin page
+          <a href="https://www.linkedin.com/">
+            <img src="" alt="LinkedIn Logo" />
+          </a>
         </p>
 
       </contact>
