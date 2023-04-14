@@ -1,0 +1,52 @@
+[
+  {
+      "id": 1,
+      "name": "On That Day",
+      "image": "https://raw.githubusercontent.com/cristianmitu/ProjectOne/main/assets/screenshots/OnThatDay.png",
+      "github": "https://github.com/cristianmitu/ProjectOne",
+      "deploy": "https://cristianmitu.github.io/ProjectOne",
+      "topics": "When a user selects a day from the calendar, they are presented with a movie that was released on that day, plus three notable events that occured on that same day."
+  },
+  {
+      "id": 2,
+      "name": "Actors and Movies",
+      "image": "https://raw.githubusercontent.com/cnwanneka/class-project/main/Screenshot%20(57).png",
+      "github": "https://github.com/cristianmitu/Project-two",
+      "deploy": "https://main--amazing-fudge-d0f2d4.netlify.app/",
+      "topics": "This is a web application that allows users to browse information about movies and actors."
+  },
+  {
+      "id": 3,
+      "name": "Weather Dashboard",
+      "image": "https://raw.githubusercontent.com/cnwanneka/weather-dashboard/main/Screenshot%20(39).png",
+      "github": "https://github.com/cnwanneka/weather-dashboard.git",
+      "deploy": "https://cnwanneka.github.io/weather-dashboard/",
+      "topics": "This application shows the current weather forecast of a given city and also the 5 day weather forecast of the same city."
+  },
+  {
+      "id": 4,
+      "name": "Password Generator",
+      "image": "https://raw.githubusercontent.com/cnwanneka/password-generator/main/Screenshot%20(58).png",
+      "github": "https://github.com/cnwanneka/password-generator.git",
+      "deploy": "https://cnwanneka.github.io/password-generator/",
+      "topics": "Using this application, one can generate a random password based on the criteria that they have chosen"
+  },
+  {
+      "id": 5,
+      "name": "Horiseon Website Challenge",
+      "image": "https://raw.githubusercontent.com/cnwanneka/horiseon-website-challenge/main/Screenshot%20(11).png",
+      "github": "https://github.com/cnwanneka/horiseon-website-challenge.git",
+      "deploy": "https://cnwanneka.github.io/horiseon-website-challenge/",
+      "topics": "This website was refactored to make it more accessible."
+  },
+  {
+      "id": 6,
+      "name": "Coding Quiz",
+      "image": "https://raw.githubusercontent.com/cnwanneka/coding-quiz/main/Screenshot%20(59).png",
+      "github": "https://github.com/cnwanneka/coding-quiz.git",
+      "deploy": "https://cnwanneka.github.io/coding-quiz/",
+      "topics": "Timed multiple-choice quiz application on Javascript fundamentals."
+  }
+]
+
+  
