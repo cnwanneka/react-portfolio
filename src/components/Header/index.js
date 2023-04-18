@@ -5,7 +5,7 @@ function Header() {
   return (
     <header className="header">
       <h1>Welcome!</h1>
-      <img class="mb-5" id="avatar" src="https://raw.githubusercontent.com/cnwanneka/bootstrap-portfolio/main/images/Chidi%20Nwanneka%20photo.jpg" alt="Chidi Nwanneka" />
+      <img className="mb-5" id="avatar" src="https://raw.githubusercontent.com/cnwanneka/bootstrap-portfolio/main/images/Chidi%20Nwanneka%20photo.jpg" alt="Chidi Nwanneka" />
     </header>
   );
 }
