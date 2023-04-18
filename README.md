@@ -1,10 +1,10 @@
-# react-portfolio
+# React-portfolio
 
 Description:
 
 This is a portfolio that showcases the challenges and projects that I have worked on.
 
-This portfolio was created using React.
+This portfolio was created using React. React is a modern web development technology.
 
 The URL of the repository is https://cnwannekaportfolio.netlify.app/
 
