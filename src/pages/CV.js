@@ -20,7 +20,7 @@ function CV() {
             <a href="https://www.linkedin.com/in/chidinwanneka/">
               <img
                 src="https://img.icons8.com/fluent/48/000000/linkedin.png"
-                alt="inkedIn"
+                alt="linkedIn"
               />
             </a>
           </p>
